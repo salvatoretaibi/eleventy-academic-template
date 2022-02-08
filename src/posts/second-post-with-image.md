@@ -1,11 +1,11 @@
 ---
-title: Second Post with Image
-date: 2022-01-25
+title: Taking Pictures
+date: 2022-02-08
 updated: Last Modified
 layout: post
 tags:
   - post
-  - image
+  - NYC
 ---
 
 Photography.
