@@ -14,5 +14,5 @@ The city is a an urban landscape. As much as I love my time in the mountains, fa
 
 We should probably start at the beginning. New York. Growing up across the river, the skyline was always there, always looming, always calling. The city's profile was so much different back then. The Empire State Building anchored midtown, and the Twin Towers marked the island's end. 
 
-![The Empire State Building](https://github.com/salvatoretaibi/salvatoretaibi.github.io/blob/main/src/assets/images/_SPT1345.jpg)
+![The Empire State Building](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/docs/assets/images/_SPT1345.jpg)
 
