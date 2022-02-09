@@ -22,14 +22,14 @@ Give me heavy. There is something in brick. It is warm, strong, comforting. All 
 
 ![The Empire State Building](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/docs/assets/images/_SPT1345.jpg)
 
-[The Chrysler Building](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT1841.jpg)
+![The Chrysler Building](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT1841.jpg)
 
-[Central Park](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/docs/assets/images/_SPT1826.jpg)
+![Central Park](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/docs/assets/images/_SPT1826.jpg)
 
-[Riverside Drive](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT1926.jpg)
+![Riverside Drive](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT1926.jpg)
 
-[Broadway](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT1613.jpg)
+![Broadway](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT1613.jpg)
 
-[The Village](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT2061.jpg)
+![The Village](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT2061.jpg)
 
-[Upper West Side](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT2050.jpg)
+![Upper West Side](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT2050.jpg)
