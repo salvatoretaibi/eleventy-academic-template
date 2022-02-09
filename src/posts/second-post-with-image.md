@@ -20,7 +20,7 @@ The architecture has changed over time. It has become colder and uninviting. It 
 
 Give me heavy. There is something in brick. It is warm, strong, comforting. All those bricks in a Manhattan of a bygone era. Now we get steel and glass. Eyesores, I say. Save those ideas for "Tomorrow World." 
 
-[The Empire State Building](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/docs/assets/images/_SPT1345.jpg)
+![The Empire State Building](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/docs/assets/images/_SPT1345.jpg)
 
 [The Chrysler Building] (https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT1841.jpg)
 
