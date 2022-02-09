@@ -20,16 +20,16 @@ The architecture has changed over time. It has become colder and uninviting. It 
 
 There is something in brick. Warm, strong, comforting. All those bricks in a Manhattan of a bygone era. Now we get steel and glass. Eyesores, I say. Save those ideas for "Tomorrow World." 
 
-![The Empire State Building](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/docs/assets/images/_SPT1345.jpg)
+![The Empire State Building](/assets/images/_SPT1345.jpg)
 
-![The Chrysler Building](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT1841.jpg)
+![The Chrysler Building](/assets/images/_SPT1841.jpg)
 
-![Central Park](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/docs/assets/images/_SPT1826.jpg)
+![Central Park](/assets/images/_SPT1826.jpg)
 
-![Riverside Drive](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT1926.jpg)
+![Riverside Drive](/assets/images/_SPT1926.jpg)
 
-![Broadway](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT1613.jpg)
+![Broadway](/assets/images/_SPT1613.jpg)
 
-![The Village](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT2061.jpg)
+![The Village](/assets/images/_SPT2061.jpg)
 
-![Upper West Side](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT2050.jpg)
+![Upper West Side](/assets/images/_SPT2050.jpg)
