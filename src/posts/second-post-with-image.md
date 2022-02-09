@@ -28,3 +28,8 @@ Give me heavy. There is something in brick. It is warm, strong, comforting. All 
 
 ![Riverside Drive] (https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT1926.jpg)
 
+![Broadway] (https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT1613.jpg)
+
+![The Village] (https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT2061.jpg)
+
+![Upper West Side] (https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/src/assets/images/_SPT2050.jpg)
