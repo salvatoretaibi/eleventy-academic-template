@@ -18,7 +18,7 @@ Growing up across the river, the skyline was always there, always looming, alway
 
 The architecture has changed over time. It has become colder and uninviting. It seems as if building designers have chosen to forget the past as each tries to outdo one another by making the next project thinner, taller, and more ethereal. Sadly, they have forgotten NYC is *not* a delicate city. It is a fortress. An iron lung. Give me brick and mortar. Give me heavy.
 
-There is something in brick. It is warm, strong, comforting. All those bricks in a Manhattan of a bygone era. Now we get steel and glass. Eyesores, I say. Save those ideas for "Tomorrow World." 
+There is something in brick. Warm, strong, comforting. All those bricks in a Manhattan of a bygone era. Now we get steel and glass. Eyesores, I say. Save those ideas for "Tomorrow World." 
 
 ![The Empire State Building](https://raw.githubusercontent.com/salvatoretaibi/salvatoretaibi.github.io/main/docs/assets/images/_SPT1345.jpg)
 
