@@ -5,7 +5,8 @@ updated: Last Modified
 layout: post
 tags:
   - post
-  - NYC
+  - photography
+
 ---
 
 Photography.
