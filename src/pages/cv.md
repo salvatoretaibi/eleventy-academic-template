@@ -6,13 +6,12 @@ title: CV
 
 # Academic CV
 
-## Academic Affiliations
+## Affiliations
 
 * PhD Candidate, Department of Italian, Rutgers University
 * BA, Italian, Columbia University (Summa Cum Laude)
 * BA, English (Double-Major: Administration of Justice), Rutgers University 
 
-## Publications
 
 ## Awards and Honors
 * Phi Beta Kappa, Columbia University
@@ -21,4 +20,4 @@ title: CV
 * Departmental Honors, Italian Department, Columbia University
 * The Honor Society of the School of General Studies, Columbia University
 
-## Presentation
+<a href="{{ https://github.com/salvatoretaibi/salvatoretaibi.github.io/blob/main/src/assets/SalvatoreTaibi_AcademicCV.pdf }}" title="Academic CV"> Academic CV</a>
