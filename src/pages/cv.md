@@ -20,4 +20,4 @@ title: CV
 * Departmental Honors, Italian Department, Columbia University
 * The Honor Society of the School of General Studies, Columbia University
 
-<a href="{{ https://github.com/salvatoretaibi/salvatoretaibi.github.io/blob/main/src/assets/SalvatoreTaibi_AcademicCV.pdf }}" title="Academic CV"> Academic CV</a>
+<a href="{{ https://github.com/salvatoretaibi/salvatoretaibi.github.io/blob/main/src/assets/Taibi_CV.pdf }}" title="Academic CV"> Academic CV</a>
