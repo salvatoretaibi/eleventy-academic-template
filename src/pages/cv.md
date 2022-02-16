@@ -4,7 +4,8 @@ permalink: /cv/
 title: CV
 ---
 
-# Academic CV <a href="{{ https://github.com/salvatoretaibi/salvatoretaibi.github.io/raw/main/src/assets/images/Taibi_CV.pdf }}" title="Salvatore Taibi"> [pdf]</a> </p>
+# Academic CV <a href="https://github.com/salvatoretaibi/salvatoretaibi.github.io/raw/main/src/assets/images/Taibi_CV.pdf" title="Salvatore Taibi">[pdf]</a></h1>
+
 
 ## Affiliations
 
