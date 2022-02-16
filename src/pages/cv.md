@@ -4,7 +4,7 @@ permalink: /cv/
 title: CV
 ---
 
-# Academic CV
+# Academic CV <a href="{{ https://github.com/salvatoretaibi/salvatoretaibi.github.io/raw/main/src/assets/images/Taibi_CV.pdf }}" title="Salvatore Taibi"> [pdf]</a> </p>
 
 ## Affiliations
 
@@ -20,4 +20,4 @@ title: CV
 * Departmental Honors, Italian Department, Columbia University
 * The Honor Society of the School of General Studies, Columbia University
 
-## <a href="{{ https://github.com/salvatoretaibi/salvatoretaibi.github.io/raw/main/src/assets/images/Taibi_CV.pdf }}" title="Salvatore Taibi"> pdf</a> </p>
+## 
